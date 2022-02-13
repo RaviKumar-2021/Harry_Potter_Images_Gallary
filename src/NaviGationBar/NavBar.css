@@ -1,0 +1,13 @@
+option{
+    background-color: black;
+    color: aliceblue;
+    padding-right: 10px;
+}
+select{
+    width: 8rem;
+}
+.searchBar{
+padding-top:0.4rem;
+padding-bottom: 0.4rem;
+height: 2.2rem;
+}

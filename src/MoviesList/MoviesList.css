@@ -1,0 +1,23 @@
+.MoviesListIMG{
+    width: 300px;
+    height: 400px;
+    overflow-wrap: normal;
+    padding: -20px;
+    
+   
+   
+
+}
+.Align-center{
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+    background-image: url(../Images/Golden-Border-PNG.png);
+    background-size: contain;
+    z-index: 2;
+    margin-bottom: 30px;
+}
+.moviesList{
+display: flex;
+width: 100%;
+}

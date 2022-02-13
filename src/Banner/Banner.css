@@ -1,0 +1,25 @@
+
+.thumbs {
+    display: none;
+}
+
+img, video {
+    max-width: 100%;
+}
+/* }
+
+
+.carousel .carousel-status {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 53px;
+    font-size: 15px;
+    text-shadow: 1px 1px 1px rgb(0 0 0 / 90%);
+    color: #fff;
+} */
+
+.Banner{
+display: flex;
+justify-content: space-evenly;
+}
